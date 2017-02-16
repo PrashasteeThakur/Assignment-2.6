@@ -24,3 +24,20 @@ System.out.println(i);   //displays odd numbers
 }
 }
 }
+
+
+2.
+import java.util.*;
+public class acad{
+public static void main(String[] args){
+Scanner sc=new Scanner(System.in);
+int a=sc.nextInt();   //number from user
+for(int i=1;i<=10;i++)
+{
+System.out.println(a+"x"+i+"="+(a*i));  //displays 1st 10 multiples of a
+}
+}
+}
+
+
+3.
